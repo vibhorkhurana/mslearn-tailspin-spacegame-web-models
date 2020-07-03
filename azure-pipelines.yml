@@ -1,4 +1,4 @@
-pool:
+pool:
   vmImage: 'Ubuntu-18.04'
 
 variables:
